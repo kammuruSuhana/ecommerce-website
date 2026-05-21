@@ -34,10 +34,10 @@ A fully responsive eCommerce website built using HTML, CSS, JavaScript, Node.js,
 # 🛒 E-Commerce Website
 
 ## Home Page
-![Home Page](images/home.png)
+![Home Page](home.png)
 
 ## Products Page
-![Products](images/products.png)
+![Products](products.png)
 
 ## register Page
-![register](images/register.png) 
+![register](register.png) 
