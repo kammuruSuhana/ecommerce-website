@@ -39,5 +39,5 @@ A fully responsive eCommerce website built using HTML, CSS, JavaScript, Node.js,
 ## Products Page
 ![Products](images/products.png)
 
-## Cart Page
-![Cart](images/register.png) 
+## register Page
+![register](images/register.png) 
